@@ -1,5 +1,37 @@
-This is a 3D game created in Unity.
-This is made by me and a friend.
-This is an exam assignment
+# Rogue Hop
 
-Click on Release to download game.
+Rogue Hop er et 3D-plattformspill utviklet i Unity som eksamensprosjekt i faget spillutvikling.
+
+## Om spillet
+
+I Rogue Hop styrer du en liten rogue gjennom flere levels fulle av feller, bevegelige hindringer og fiender. Spillet avsluttes med en egen bossfight.
+
+## Features
+
+- Flere levels med ulike utfordringer
+- Bevegelige feller og hindringer
+- Fiender med ulike angrep
+- Bossfight
+- Checkpoints
+- Level Select
+- Timer
+- Menyer og HUD
+- Animasjoner
+- Lyd og musikk
+
+## Teknologi
+
+- Unity
+- C#
+- GitHub Desktop
+
+## Utvikling
+
+Prosjektet ble utviklet av to studenter. Vi jobbet blant annet med:
+
+- Level design
+- UI, menyer og HUD
+- Spillerbevegelse
+- Kamera
+- Fiender og gameplay-mekanikker
+- Lyd og animasjoner
